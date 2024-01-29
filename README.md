@@ -3,7 +3,7 @@
 In our GitHub organization you can find:
 
 - [Intelehealth FHW Mobile App](https://github.com/Intelehealth/Intelehealth-FHW-MobileApp)
-- [Intelehealth Doctor WebApp](https://github.com/Intelehealth/Intelehealth-Doctor-WebApp)
+- [Intelehealth Doctor Web App](https://github.com/Intelehealth/Intelehealth-Doctor-WebApp)
 - [Offline Sync Module](https://github.com/Intelehealth/Middleware)
 - [Intelehealth Microservices](https://github.com/Intelehealth/Doctor-WebApp-Mindmap-Service)
 - [Web Prescription Module](https://github.com/Intelehealth/Web-Prescription)
